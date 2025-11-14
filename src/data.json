@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Mushroom",
-    "image": "https://picsum.photos/seed/mushroom/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=fresh mushroom on the table&width=200&height=300",
     "price": 499,
     "description": "Fresh and organic mushrooms, perfect for your culinary creations.",
     "unit": "100g",
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "name": "Tomato",
-    "image": "https://picsum.photos/seed/tomato/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=fresh tomatoes in a basket&width=200&height=300",
     "price": 299,
     "description": "Juicy red tomatoes, rich in vitamins and antioxidants.",
     "unit": "500g",
@@ -22,7 +22,7 @@
   {
     "id": 3,
     "name": "Carrot",
-    "image": "https://picsum.photos/seed/carrot/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=fresh carrots on wooden table&width=200&height=300",
     "price": 199,
     "description": "Crunchy orange carrots, packed with beta-carotene.",
     "unit": "500g",
@@ -32,7 +32,7 @@
   {
     "id": 4,
     "name": "Spinach",
-    "image": "https://picsum.photos/seed/spinach/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=fresh spinach leaves in bowl&width=200&height=300",
     "price": 399,
     "description": "Fresh green spinach leaves, iron-rich and nutritious.",
     "unit": "250g",
@@ -42,7 +42,7 @@
   {
     "id": 5,
     "name": "Broccoli",
-    "image": "https://picsum.photos/seed/broccoli/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=fresh broccoli florets on table&width=200&height=300",
     "price": 599,
     "description": "Green broccoli florets, excellent source of vitamins.",
     "unit": "500g",
@@ -52,7 +52,7 @@
   {
     "id": 6,
     "name": "Potato",
-    "image": "https://picsum.photos/seed/potato/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=fresh potatoes in rustic sack&width=200&height=300",
     "price": 249,
     "description": "Farm-fresh potatoes, versatile for any dish.",
     "unit": "1kg",
@@ -62,7 +62,7 @@
   {
     "id": 7,
     "name": "Onion",
-    "image": "https://picsum.photos/seed/onion/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=fresh onions on kitchen counter&width=200&height=300",
     "price": 179,
     "description": "Fresh onions, essential for every kitchen.",
     "unit": "1kg",
@@ -72,7 +72,7 @@
   {
     "id": 8,
     "name": "Bell Pepper",
-    "image": "https://picsum.photos/seed/bellpepper/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=colorful bell peppers arranged on table&width=200&height=300",
     "price": 449,
     "description": "Colorful bell peppers, sweet and crunchy.",
     "unit": "500g",
@@ -82,7 +82,7 @@
   {
     "id": 9,
     "name": "Cucumber",
-    "image": "https://picsum.photos/seed/cucumber/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=fresh cucumbers sliced on board&width=200&height=300",
     "price": 299,
     "description": "Fresh cucumbers, perfect for salads.",
     "unit": "500g",
@@ -92,7 +92,7 @@
   {
     "id": 10,
     "name": "Cauliflower",
-    "image": "https://picsum.photos/seed/cauliflower/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=fresh cauliflower head on table&width=200&height=300",
     "price": 549,
     "description": "White cauliflower heads, rich in nutrients.",
     "unit": "1pc",
@@ -102,7 +102,7 @@
   {
     "id": 11,
     "name": "Apple",
-    "image": "https://picsum.photos/seed/apple/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=fresh red apples in basket&width=200&height=300",
     "price": 699,
     "description": "Crisp and sweet apples, a healthy snack.",
     "unit": "1kg",
@@ -112,7 +112,7 @@
   {
     "id": 12,
     "name": "Banana",
-    "image": "https://picsum.photos/seed/banana/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=ripe bananas on kitchen counter&width=200&height=300",
     "price": 399,
     "description": "Ripe yellow bananas, rich in potassium.",
     "unit": "1 dozen",
@@ -122,7 +122,7 @@
   {
     "id": 13,
     "name": "Orange",
-    "image": "https://picsum.photos/seed/orange/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=fresh oranges sliced on table&width=200&height=300",
     "price": 599,
     "description": "Juicy oranges, packed with vitamin C.",
     "unit": "1kg",
@@ -132,7 +132,7 @@
   {
     "id": 14,
     "name": "Mango",
-    "image": "https://picsum.photos/seed/mango/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=juicy mangoes on tropical table&width=200&height=300",
     "price": 899,
     "description": "Sweet and juicy mangoes, king of fruits.",
     "unit": "1kg",
@@ -142,7 +142,7 @@
   {
     "id": 15,
     "name": "Grapes",
-    "image": "https://picsum.photos/seed/grapes/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=fresh green grapes in bowl&width=200&height=300",
     "price": 799,
     "description": "Fresh seedless grapes, sweet and healthy.",
     "unit": "500g",
@@ -152,7 +152,7 @@
   {
     "id": 16,
     "name": "Strawberry",
-    "image": "https://picsum.photos/seed/strawberry/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=fresh strawberries on rustic table&width=200&height=300",
     "price": 999,
     "description": "Fresh strawberries, sweet and tangy.",
     "unit": "250g",
@@ -162,7 +162,7 @@
   {
     "id": 17,
     "name": "Watermelon",
-    "image": "https://picsum.photos/seed/watermelon/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=whole watermelon sliced open&width=200&height=300",
     "price": 499,
     "description": "Refreshing watermelon, perfect for summer.",
     "unit": "1pc",
@@ -172,7 +172,7 @@
   {
     "id": 18,
     "name": "Pineapple",
-    "image": "https://picsum.photos/seed/pineapple/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=fresh pineapple on tropical table&width=200&height=300",
     "price": 799,
     "description": "Tropical pineapple, sweet and tangy.",
     "unit": "1pc",
@@ -182,7 +182,7 @@
   {
     "id": 19,
     "name": "Papaya",
-    "image": "https://picsum.photos/seed/papaya/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=ripe papaya sliced on plate&width=200&height=300",
     "price": 599,
     "description": "Ripe papaya, rich in enzymes and vitamins.",
     "unit": "1pc",
@@ -192,7 +192,7 @@
   {
     "id": 20,
     "name": "Kiwi",
-    "image": "https://picsum.photos/seed/kiwi/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=fresh kiwi fruits sliced&width=200&height=300",
     "price": 899,
     "description": "Tangy kiwi fruits, rich in vitamin C.",
     "unit": "500g",
@@ -202,7 +202,7 @@
   {
     "id": 21,
     "name": "Milk",
-    "image": "https://picsum.photos/seed/milk/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=fresh milk in glass bottle&width=200&height=300",
     "price": 599,
     "description": "Fresh whole milk, rich in calcium.",
     "unit": "1L",
@@ -212,7 +212,7 @@
   {
     "id": 22,
     "name": "Yogurt",
-    "image": "https://picsum.photos/seed/yogurt/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=creamy yogurt in bowl&width=200&height=300",
     "price": 699,
     "description": "Creamy yogurt, probiotic-rich and delicious.",
     "unit": "500g",
@@ -222,7 +222,7 @@
   {
     "id": 23,
     "name": "Cheese",
-    "image": "https://picsum.photos/seed/cheese/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=artisan cheese on wooden board&width=200&height=300",
     "price": 1299,
     "description": "Premium cheese, perfect for sandwiches and pasta.",
     "unit": "200g",
@@ -232,7 +232,7 @@
   {
     "id": 24,
     "name": "Butter",
-    "image": "https://picsum.photos/seed/butter/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=fresh butter on wooden board&width=200&height=300",
     "price": 899,
     "description": "Fresh dairy butter, rich and creamy.",
     "unit": "500g",
@@ -242,7 +242,7 @@
   {
     "id": 25,
     "name": "Paneer",
-    "image": "https://picsum.photos/seed/paneer/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=fresh paneer cubes on plate&width=200&height=300",
     "price": 1099,
     "description": "Fresh cottage cheese, high in protein.",
     "unit": "250g",
@@ -252,7 +252,7 @@
   {
     "id": 26,
     "name": "Cream",
-    "image": "https://picsum.photos/seed/cream/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=fresh cream in glass bowl&width=200&height=300",
     "price": 799,
     "description": "Fresh dairy cream, perfect for desserts.",
     "unit": "200ml",
@@ -262,7 +262,7 @@
   {
     "id": 27,
     "name": "Lettuce",
-    "image": "https://picsum.photos/seed/lettuce/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=fresh lettuce head on table&width=200&height=300",
     "price": 349,
     "description": "Fresh crisp lettuce, ideal for salads.",
     "unit": "1pc",
@@ -272,7 +272,7 @@
   {
     "id": 28,
     "name": "Cabbage",
-    "image": "https://picsum.photos/seed/cabbage/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=fresh cabbage on market stall&width=200&height=300",
     "price": 299,
     "description": "Fresh green cabbage, versatile vegetable.",
     "unit": "1pc",
@@ -282,7 +282,7 @@
   {
     "id": 29,
     "name": "Peas",
-    "image": "https://picsum.photos/seed/peas/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=fresh green peas in bowl&width=200&height=300",
     "price": 449,
     "description": "Fresh green peas, sweet and nutritious.",
     "unit": "500g",
@@ -292,7 +292,7 @@
   {
     "id": 30,
     "name": "Beans",
-    "image": "https://picsum.photos/seed/beans/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=fresh green beans on table&width=200&height=300",
     "price": 399,
     "description": "Fresh green beans, crunchy and healthy.",
     "unit": "500g",
@@ -302,7 +302,7 @@
   {
     "id": 31,
     "name": "Pomegranate",
-    "image": "https://picsum.photos/seed/pomegranate/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=fresh pomegranate with seeds&width=200&height=300",
     "price": 1299,
     "description": "Fresh pomegranates, rich in antioxidants.",
     "unit": "1kg",
@@ -312,7 +312,7 @@
   {
     "id": 32,
     "name": "Lemon",
-    "image": "https://picsum.photos/seed/lemon/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=fresh lemons on table&width=200&height=300",
     "price": 249,
     "description": "Fresh lemons, tangy and vitamin C rich.",
     "unit": "500g",
@@ -322,7 +322,7 @@
   {
     "id": 33,
     "name": "Avocado",
-    "image": "https://picsum.photos/seed/avocado/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=ripe avocados on cutting board&width=200&height=300",
     "price": 1499,
     "description": "Ripe avocados, creamy and nutritious.",
     "unit": "500g",
@@ -332,7 +332,7 @@
   {
     "id": 34,
     "name": "Blueberry",
-    "image": "https://picsum.photos/seed/blueberry/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=fresh blueberries in bowl&width=200&height=300",
     "price": 1199,
     "description": "Fresh blueberries, superfood packed with antioxidants.",
     "unit": "250g",
@@ -342,7 +342,7 @@
   {
     "id": 35,
     "name": "Peach",
-    "image": "https://picsum.photos/seed/peach/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=juicy peaches on table&width=200&height=300",
     "price": 899,
     "description": "Juicy peaches, sweet and fragrant.",
     "unit": "1kg",
@@ -352,7 +352,7 @@
   {
     "id": 36,
     "name": "Pumpkin",
-    "image": "https://picsum.photos/seed/pumpkin/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=fresh pumpkin on table&width=200&height=300",
     "price": 399,
     "description": "Fresh pumpkin, perfect for soups and pies.",
     "unit": "1pc",
@@ -362,7 +362,7 @@
   {
     "id": 37,
     "name": "Beetroot",
-    "image": "https://picsum.photos/seed/beetroot/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=fresh beetroot with leaves&width=200&height=300",
     "price": 349,
     "description": "Fresh beetroots, rich in iron and minerals.",
     "unit": "500g",
@@ -372,7 +372,7 @@
   {
     "id": 38,
     "name": "Radish",
-    "image": "https://picsum.photos/seed/radish/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=fresh radishes on table&width=200&height=300",
     "price": 249,
     "description": "Fresh radishes, crunchy and peppery.",
     "unit": "500g",
@@ -382,7 +382,7 @@
   {
     "id": 39,
     "name": "Eggplant",
-    "image": "https://picsum.photos/seed/eggplant/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=fresh eggplant on wooden table&width=200&height=300",
     "price": 399,
     "description": "Fresh eggplants, versatile for various cuisines.",
     "unit": "500g",
@@ -392,7 +392,7 @@
   {
     "id": 40,
     "name": "Zucchini",
-    "image": "https://picsum.photos/seed/zucchini/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=fresh zucchini on cutting board&width=200&height=300",
     "price": 449,
     "description": "Fresh zucchini, low-calorie and nutritious.",
     "unit": "500g",
@@ -402,7 +402,7 @@
   {
     "id": 41,
     "name": "Cheddar Cheese",
-    "image": "https://picsum.photos/seed/cheddar/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=aged cheddar cheese wedge&width=200&height=300",
     "price": 1499,
     "description": "Aged cheddar cheese, sharp and flavorful.",
     "unit": "250g",
@@ -412,7 +412,7 @@
   {
     "id": 42,
     "name": "Mozzarella",
-    "image": "https://picsum.photos/seed/mozzarella/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=fresh mozzarella cheese on board&width=200&height=300",
     "price": 1399,
     "description": "Fresh mozzarella cheese, perfect for pizzas.",
     "unit": "200g",
@@ -422,7 +422,7 @@
   {
     "id": 43,
     "name": "Sour Cream",
-    "image": "https://picsum.photos/seed/sourcream/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=tangy sour cream in bowl&width=200&height=300",
     "price": 699,
     "description": "Tangy sour cream, great for dips and toppings.",
     "unit": "200ml",
@@ -432,7 +432,7 @@
   {
     "id": 44,
     "name": "Cherry",
-    "image": "https://picsum.photos/seed/cherry/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=fresh cherries in bowl&width=200&height=300",
     "price": 1099,
     "description": "Sweet cherries, perfect summer fruit.",
     "unit": "500g",
@@ -442,7 +442,7 @@
   {
     "id": 45,
     "name": "Plum",
-    "image": "https://picsum.photos/seed/plum/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=fresh plums on table&width=200&height=300",
     "price": 799,
     "description": "Juicy plums, sweet and tangy.",
     "unit": "500g",
@@ -452,7 +452,7 @@
   {
     "id": 46,
     "name": "Garlic",
-    "image": "https://picsum.photos/seed/garlic/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=fresh garlic bulbs on table&width=200&height=300",
     "price": 299,
     "description": "Fresh garlic bulbs, aromatic and flavorful.",
     "unit": "250g",
@@ -462,7 +462,7 @@
   {
     "id": 47,
     "name": "Ginger",
-    "image": "https://picsum.photos/seed/ginger/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=fresh ginger root on table&width=200&height=300",
     "price": 349,
     "description": "Fresh ginger root, spicy and medicinal.",
     "unit": "250g",
@@ -472,7 +472,7 @@
   {
     "id": 48,
     "name": "Sweet Corn",
-    "image": "https://picsum.photos/seed/sweetcorn/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=fresh sweet corn on table&width=200&height=300",
     "price": 399,
     "description": "Fresh sweet corn, tender and delicious.",
     "unit": "4pcs",
@@ -482,7 +482,7 @@
   {
     "id": 49,
     "name": "Ghee",
-    "image": "https://picsum.photos/seed/ghee/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=traditional ghee in jar&width=200&height=300",
     "price": 1599,
     "description": "Pure clarified butter, traditional and healthy.",
     "unit": "500g",
@@ -492,7 +492,7 @@
   {
     "id": 50,
     "name": "Coconut",
-    "image": "https://picsum.photos/seed/coconut/200/300",
+    "image": "https://shrill-king-165d.surajshende247.workers.dev/?prompt=fresh coconuts on tropical table&width=200&height=300",
     "price": 449,
     "description": "Fresh coconuts, versatile tropical fruit.",
     "unit": "2pcs",
