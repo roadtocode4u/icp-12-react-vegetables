@@ -5,7 +5,11 @@ import Button from "./../components/Button";
 import Footer from "./../components/Footer";
 import Navbar from "./../components/Navbar";
 
+import { useNavigate } from "react-router";
+
 function Home() {
+  const navigate = useNavigate();
+
   return (
     <div>
       <Navbar />
@@ -24,7 +28,14 @@ function Home() {
             </h1>
 
             <div className="flex flex-col md:flex-row gap-4 mt-8 justify-center">
-              <Button title={"Explore Now"} variant="primary" size="medium" />
+              <Button
+                title={"Explore Now"}
+                onClick={() => {
+                  navigate("/vegetables");
+                }}
+                variant="primary"
+                size="medium"
+              />
 
               <Button title={"Call Us"} variant="tertiary" size="medium" />
             </div>
