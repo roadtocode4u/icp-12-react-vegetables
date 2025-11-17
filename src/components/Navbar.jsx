@@ -3,6 +3,7 @@ import {
   ShoppingCart as ShoppingCartIcon,
 } from "lucide-react";
 import { useEffect, useState } from "react";
+import { Link } from "react-router";
 
 function Navbar({ refreshCart }) {
   const [cartItems, setCartItems] = useState([]);
@@ -14,10 +15,12 @@ function Navbar({ refreshCart }) {
 
   return (
     <div className="bg-[#FFBC4C] sticky top-2 max-w-10/12 mx-auto px-10 py-2 rounded-full flex items-center my-2 z-50">
-      <SaladIcon className="mr-2" size={60} strokeWidth={1} />
-      <h2 className="text-2xl font-bold">RTC Vegetables</h2>
+      <Link to="/">
+        <SaladIcon className="mr-2 inline-block align-middle" size={60} strokeWidth={1} />
+        <h2 className="text-2xl font-bold inline-block align-middle ">RTC Vegetables</h2>
+      </Link>
 
-      <div className="ml-auto relative">
+      <Link to="/my-cart" className="ml-auto relative">
         {cartItems.length > 0 ? (
           <span className="absolute -top-2 -right-1 bg-red-500 rounded-full px-2 text-white text-sm">
             {cartItems.length}
@@ -25,7 +28,7 @@ function Navbar({ refreshCart }) {
         ) : null}
 
         <ShoppingCartIcon size={40} strokeWidth={1} className="inline-block" />
-      </div>
+      </Link>
     </div>
   );
 }

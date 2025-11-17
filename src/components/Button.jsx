@@ -3,6 +3,7 @@ const BUTTON_VARIANTS = {
   secondary: "bg-blue-500 text-white hover:bg-blue-600 transition-duration-700",
   tertiary:
     "bg-slate-700 text-white hover:bg-slate-800 transition-duration-700",
+  danger: "bg-red-500 text-white hover:bg-red-600 transition-duration-700",
 };
 
 const BUTTON_SIZES = {
